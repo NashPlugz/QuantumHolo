@@ -1,0 +1,17 @@
+name: QuantumHolo
+version: 1.0
+main: me.nashplugz.quantumh.QuantumHolo
+api-version: 1.21
+commands:
+  createholo:
+    description: Create a hologram at your current location
+    usage: /<command> name:<name> line1:<text> [line2:<text> ...] [image:<path>] [gif:<path>]
+  delholo:
+    description: Remove a hologram by its name
+    usage: /<command> <name>
+  listholo:
+    description: List all created holograms
+    usage: /<command>
+  quantumholoreload:
+    description: Reload the QuantumHolo configuration
+    usage: /<command>

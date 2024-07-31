@@ -1,0 +1,13 @@
+me\nashplugz\quantumh\holograms\HologramManager.class
+me\nashplugz\quantumh\utils\AnimationUtil.class
+me\nashplugz\quantumh\commands\CreateHologramCommand.class
+me\nashplugz\quantumh\utils\AnimationUtil$2.class
+me\nashplugz\quantumh\commands\ListHologramsCommand.class
+me\nashplugz\quantumh\utils\ImageUtil.class
+me\nashplugz\quantumh\QuantumHolo.class
+me\nashplugz\quantumh\utils\GradientUtil.class
+me\nashplugz\quantumh\commands\DeleteHologramCommand.class
+me\nashplugz\quantumh\config\ConfigManager.class
+me\nashplugz\quantumh\utils\AnimationUtil$1.class
+me\nashplugz\quantumh\commands\ReloadCommand.class
+me\nashplugz\quantumh\holograms\Hologram.class

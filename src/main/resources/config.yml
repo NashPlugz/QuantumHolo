@@ -1,0 +1,16 @@
+# QuantumHolo Configuration
+
+# Default gradient colors
+gradient:
+  start: "#FF0000"
+  end: "#0000FF"
+
+# Animation settings
+animation:
+  enabled: true
+  update-interval: 5 # ticks
+
+# Hologram settings
+hologram:
+  max-distance: 64 # blocks
+  update-interval: 20 # ticks
